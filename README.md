@@ -18,7 +18,7 @@ Supported shells:
 
 ## :fast_forward: Install
 ```
-curl https://raw.githubusercontent.com/tanvirtin/golang-tools-install-script/master/goinstall.sh | bash
+curl https://raw.githubusercontent.com/tanvirtin/golanginstall/master/goinstall.sh | bash
 ```
 
 ## :pencil: Notes
